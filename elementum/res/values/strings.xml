@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">elementum</string>
+    <string name="title_section1">Search Yelp Locally</string>
+    <string name="title_section2">Search Yelp By City</string>
+    <string name="title_section3">Search Yelp Business Name</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search...</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
